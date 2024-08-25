@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD5t8sldRyoEzuicQC5GxlqUtopigFDrWY",
-  authDomain: "react-dragon-news-auth.firebaseapp.com",
-  projectId: "react-dragon-news-auth",
-  storageBucket: "react-dragon-news-auth.appspot.com",
-  messagingSenderId: "750044483429",
-  appId: "1:750044483429:web:77f4f5d3f33234b21f5b8c"
+  apiKey: "AIzaSyAqPvNQx-LXyrGJMiMhack1okkq3EcRsEY",
+  authDomain: "react-practice-app-2.firebaseapp.com",
+  projectId: "react-practice-app-2",
+  storageBucket: "react-practice-app-2.appspot.com",
+  messagingSenderId: "1064388852191",
+  appId: "1:1064388852191:web:592336d74cdc463b4e2c6a",
 };
 
 // Initialize Firebase
