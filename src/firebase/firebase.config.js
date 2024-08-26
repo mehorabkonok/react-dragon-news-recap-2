@@ -16,3 +16,6 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 export default app;
+
+// Hosting address:
+// https://react-practice-app-2.web.app/
